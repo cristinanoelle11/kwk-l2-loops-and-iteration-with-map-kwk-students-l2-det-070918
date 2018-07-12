@@ -12,3 +12,8 @@ function nameToAttributes(list){
     return {firstName: fName, lastName: lName};
   });
 }
+function attributesToPhrase(names){
+  return names.map(function(driver){
+    
+  }
+}
