@@ -6,6 +6,7 @@ function lowerCaseStudentsNames (names) {
 }
 function nameToAttributes(names){
   return names.map(function(driver) {
-    
+    const firstName
+    const lastName
   }
 }
