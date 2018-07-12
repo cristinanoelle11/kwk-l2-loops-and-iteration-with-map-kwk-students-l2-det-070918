@@ -1,10 +1,10 @@
 // Code your solution in this file.
-function lowerCaseStudentsNames (list) {
+function lowerCaseStudentNames (list) {
  return list.map(function (driver) {
   return driver.toLowerCase();
  });
 }
-lowerCaseStudentsNames(['Cristina', 'Tara'])
+lowerCaseStudentNames(['Cristina', 'Tara'])
 
 function nameToAttributes(list){
   return list.map(function(driver) {
