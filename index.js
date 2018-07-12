@@ -1,3 +1,5 @@
 // Code your solution in this file.
 function lowerCaseStudentsNames (names)
-returns name.map
+returns name.map(function (driver)){
+  returns dri
+}
