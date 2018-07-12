@@ -4,6 +4,8 @@ function lowerCaseStudentsNames (names) {
   return driver.toLowerCase();
  });
 }
-function nameToAttributes(){
-  
+function nameToAttributes(names){
+  return names.map(function(driver) {
+    
+  }
 }
