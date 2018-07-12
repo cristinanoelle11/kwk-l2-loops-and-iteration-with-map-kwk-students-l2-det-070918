@@ -2,5 +2,5 @@
 function lowerCaseStudentsNames (names)
 returns name.map(function (driver)){
   returns driver.toLowerCase();
-}
+});
 }
