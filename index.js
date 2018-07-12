@@ -1,2 +1,3 @@
 // Code your solution in this file.
-function lowerCaseStudentsNames 
+function lowerCaseStudentsNames (names)
+returns
