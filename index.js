@@ -13,7 +13,7 @@ function nameToAttributes(list){
   });
 }
 function attributesToPhrase(names){
-  return names.map(function(driver){
+  return names.map(function (driver){
   return `${driver.name} is from ${driver.hometown}`
   });
 }
