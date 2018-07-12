@@ -4,9 +4,10 @@ function lowerCaseStudentsNames (names) {
   return driver.toLowerCase();
  });
 }
+
 function nameToAttributes(names){
   return names.map(function(driver) {
-    const firstName
-    const lastName
-  }
+    const firstName = driver.split('')[0]
+    const lastName = driver.split('')[1]
+  });
 }
