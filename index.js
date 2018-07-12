@@ -4,7 +4,7 @@ function lowerCaseStudentsNames (list) {
   return driver.toLowerCase();
  });
 }
-lowerCaseStudentNames(['Cristina', 'Tara'])
+lowerCaseStudentsNames(['Cristina', 'Tara'])
 
 function nameToAttributes(list){
   return list.map(function(driver) {
